@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CameraExcercise</string>
+    <string name="take_a_picture">take a picture!</string>
+    <string name="click">Click!</string>
+    <string name="record">Record!</string>
+    <string name="pic">pic!</string>
+    <string name="permission_granted">Permission Granted!!</string>
+    <string name="permission_denied">Permission Denied.</string>
+    <string name="action_canceled">Action Canceled!</string>
+    <string name="smth_went_wrong">Something went wrong...</string>
+</resources>
